@@ -1,6 +1,6 @@
 #include<iostream>
 
-void operators() 
+void main() 
 {
 	int first = 0;
 
