@@ -1,6 +1,6 @@
 #include<iostream>
 
-void main() 
+void operations()
 {
 	int first = 0;
 	int second = 0;
